@@ -1,0 +1,39 @@
+# Built application files
+*.apk
+*.ap_
+
+*.kotlin_module
+
+# Files for the Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+
+
+# SWP swap files
+.swp
+
+# Gradle files
+.gradle/
+build/
+/*/build/
+mappings/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log Files
+*.log
+
+# Signing files
+.signing/
+ 
+# User-specific configurations
+.idea/
+.navigation/
+*.iml
